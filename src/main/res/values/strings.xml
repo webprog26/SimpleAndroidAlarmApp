@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ApplicationAlarm</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="show_alarms">Show alarms</string>
+    <string name="vibration">Vibration</string>
+    <string name="repeat">Repeat</string>
+
+    <string name="mo">MO</string>
+    <string name="tu">TU</string>
+    <string name="we">WE</string>
+    <string name="th">TH</string>
+    <string name="fr">FR</string>
+    <string name="st">ST</string>
+    <string name="su">SU</string>
+
+    <string name="alarm_melody_default">Alarm melody: Dreamland</string>
+    <string name="alarm_melody">Alarm melody: %s</string>
+    <string name="install_file_manager">Please install a File Manager</string>
+</resources>
